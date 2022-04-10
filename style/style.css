@@ -109,7 +109,7 @@ body{
     transition: 500ms;
     overflow: hidden;
 }
-.main__top-img:hover{
+.main__top-item:hover .main__top-img{
     transform: scale(1.5);
 }
 
